@@ -5,11 +5,9 @@ Based on the <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side
 
 ## Server side repo
 
-Loading...
+This repo was created to handle the deployment of the back-end
 
 ## Tech Stack
-
-This repo was created to handle the deployment of the back-end
 
 ### Back-end
 - Java
